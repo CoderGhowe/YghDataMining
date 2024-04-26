@@ -1,4 +1,7 @@
 # YghDataMining
+
+姓名：袁国豪
+
 # 过程
 ## 一、注册并登录github
 
